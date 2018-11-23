@@ -12,7 +12,7 @@ public class CallingMethodsInSameClass
  hih  hjh hi hih ih hi hi	public static void main(String[] args) {
 		printOne();
 		printOne();
-		printTwo();
+		printFour();
 	}
 
 hi hiu hw r y:	public static void printOne() {
