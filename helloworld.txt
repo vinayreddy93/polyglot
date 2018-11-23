@@ -16,6 +16,9 @@ public class CallingMethodsInSameClass
 	}
 
 	hi mama he r UUUUUU        public static void printOne() {
+
+public static void printOne() {
+
 		System.out.println("Hello World");
 	}
 
