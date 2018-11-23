@@ -9,7 +9,7 @@ public class HelloWorld
 }
 public class CallingMethodsInSameClass
 {
-	public static void main(String[] args) {
+ hih  hjh hi hih ih hi hi	public static void main(String[] args) {
 		printOne();
 		printOne();
 		printTwo();
