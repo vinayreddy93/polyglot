@@ -15,6 +15,7 @@ public class CallingMethodsInSameClass
          	printFour();
 	}
 
+<<<<<<< Updated upstream
 	hi mama he r UUUUUU        public static void printOne() {
 
 public static void printOne() {
