@@ -15,7 +15,7 @@ public class CallingMethodsInSameClass
 		printTwo();
 	}
 
-	public static void printOne() {
+hi hiu hw r y:	public static void printOne() {
 		System.out.println("Hello World");
 	}
 hi mama hw r u`:x
