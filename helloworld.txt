@@ -19,6 +19,7 @@ public static void printOne() {
 		System.out.println("Hello World");
 
 	}
+hi mama hw r u`:x
 
  hi mama hw r u?	public static void printTwo() {
 		printOne();
