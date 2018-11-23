@@ -19,7 +19,7 @@ hi hiu hw r y:	public static void printOne() {
 		System.out.println("Hello World");
 	}
 
-	public static void printTwo() {
+ hi mama hw r u?	public static void printTwo() {
 		printOne();
 		printOne();
 	}
