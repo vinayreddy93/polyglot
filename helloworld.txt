@@ -15,12 +15,10 @@ public class CallingMethodsInSameClass
          	printFour();
 	}
 
-<<<<<<< Updated upstream
-	hi mama he r UUUUUU        public static void printOne() {
 
-public static void printOne() {
 
-		System.out.println("Hello World");
+
+
 	}
 
  hi mama hw r u?	public static void printTwo() {
