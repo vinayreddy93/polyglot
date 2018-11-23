@@ -15,9 +15,8 @@ public class CallingMethodsInSameClass
          	printFour();
 	}
 
-
-
-
+public static void printOne() {
+		System.out.println("Hello World");
 
 	}
 
